@@ -9,7 +9,7 @@ interests:
   - Cyber Security
   - CTFs
   - Web Exploitation
-  - IoT and EmbeddedSystems
+  - IoT and Embedded Systems
   - Coding
   - Chess
 social:
