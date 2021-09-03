@@ -31,8 +31,8 @@ social:
     icon_pack: fab
     icon: rootme
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Root-me Profile
+    url: https://www.root-me.org/0x13A0F-9114
 education:
   courses:
     - course: Master's degree in Computer Security
