@@ -29,7 +29,7 @@ social:
       header: false
     link: https://www.root-me.org/0x13A0F-9114
     icon_pack: fab
-    icon: root-me
+    icon: google
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
